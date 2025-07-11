@@ -86,6 +86,8 @@ layout:
 
 **兰小欢** <mark style="background-color:yellow;">\[7分]</mark> #经济人文
 
+**李笑来** <mark style="background-color:yellow;">\[6分]</mark> #经济人文
+
 ## M
 
 **Micheal Hudson** <mark style="background-color:green;">\[8分]</mark> #经济人文
