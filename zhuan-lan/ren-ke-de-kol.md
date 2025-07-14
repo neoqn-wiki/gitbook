@@ -22,7 +22,7 @@ layout:
 
 ## A
 
-**Andrew Tate** <mark style="background-color:yellow;">\[5分]</mark> #个人成长 #两性教育
+**Andrew Tate** <mark style="background-color:red;">\[5分]</mark> #个人成长 #两性教育
 
 ## B
 
@@ -48,15 +48,17 @@ layout:
 
 **辜鸿铭** <mark style="background-color:green;">\[9分]</mark> #个人成长
 
-**郭正亮** <mark style="background-color:yellow;">\[6分]</mark> #地缘政治
+**高志凯** <mark style="background-color:green;">\[8分]</mark> #地缘政治
 
-**George Yeo** <mark style="background-color:yellow;">\[7分]</mark> #地缘政治
+**郭正亮** <mark style="background-color:yellow;">\[6分]</mark> #地缘政治
 
 **Gerald Celente** <mark style="background-color:green;">\[8分]</mark> #经济人文
 
-**Gary Stevenson** <mark style="background-color:yellow;">\[6分]</mark> #经济人文
+**George Yeo** <mark style="background-color:yellow;">\[7分]</mark> #地缘政治
 
 **George Galloway** <mark style="background-color:yellow;">\[7分]</mark> #地缘政治
+
+**Gary Stevenson** <mark style="background-color:yellow;">\[6分]</mark> #经济人文
 
 ## H
 
@@ -74,7 +76,7 @@ layout:
 
 **Jerry Grey** <mark style="background-color:yellow;">\[7分]</mark> #地缘政治
 
-**John Mearsheimer** <mark style="background-color:red;">\[4分]</mark> #地缘政治
+**John Mearsheimer** <mark style="background-color:red;">\[5分]</mark> #地缘政治
 
 ## K
 
@@ -92,7 +94,7 @@ layout:
 
 **Micheal Hudson** <mark style="background-color:green;">\[8分]</mark> #经济人文
 
-**Myron Gaines** (Fresh and Fit) <mark style="background-color:yellow;">\[5分]</mark> #个人成长 #两性教育
+**Myron Gaines** (Fresh and Fit) <mark style="background-color:red;">\[5分]</mark> #个人成长 #两性教育
 
 ## N
 
@@ -108,9 +110,11 @@ layout:
 
 ## R
 
+**饶毅** <mark style="background-color:green;">\[8分]</mark> #经济人文
+
 **Robert Malone** <mark style="background-color:yellow;">\[6分]</mark> #经济人文
 
-**Richard Medhurst** <mark style="background-color:yellow;">\[5分]</mark> #地缘政治
+**Richard Medhurst** <mark style="background-color:yellow;">\[6分]</mark> #地缘政治
 
 ## S
 
@@ -126,7 +130,7 @@ layout:
 
 ## V
 
-**Vijay Gokhale** <mark style="background-color:green;">\[8分]</mark> #地缘政治&#x20;
+**Vijay Gokhale** <mark style="background-color:yellow;">\[7分]</mark> #地缘政治&#x20;
 
 ## W
 
