@@ -1,21 +1,6 @@
 ---
 cover: ../.gitbook/assets/Antennae_Biggs_3840.jpeg
 coverY: -44.01215805471125
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # ✅ 认可的 KOL

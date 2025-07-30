@@ -4,6 +4,7 @@
 
 * [👋 欢迎来到Neo青年！](README.md)
 * [⚠️ 新敬告青年](guan-yu-wo-men/xin-jing-gao-qing-nian.md)
+* [📱 视频号](guan-yu-wo-men/shi-pin-hao.md)
 
 ## 专栏
 
