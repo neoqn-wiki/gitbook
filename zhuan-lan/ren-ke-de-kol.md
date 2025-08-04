@@ -71,6 +71,8 @@ coverY: -44.01215805471125
 
 ## L
 
+**李世默** (Eric Li) <mark style="background-color:yellow;">\[7分]</mark> #经济人文 #地缘政治
+
 **兰小欢** <mark style="background-color:yellow;">\[7分]</mark> #经济人文
 
 **李笑来** <mark style="background-color:yellow;">\[6分]</mark> #经济人文
@@ -104,6 +106,8 @@ coverY: -44.01215805471125
 ## S
 
 **沈逸** <mark style="background-color:green;">\[8分]</mark> #地缘政治 #经济人文
+
+**舒畅** (孤烟暮蝉) <mark style="background-color:yellow;">\[7分]</mark> #地缘政治
 
 **Scott Ritter** <mark style="background-color:green;">\[8分]</mark> #地缘政治
 
