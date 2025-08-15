@@ -15,6 +15,8 @@ coverY: -44.01215805471125
 
 ## C
 
+**陳啟宗** <mark style="background-color:green;">\[8分]</mark> #地缘政治 #经济人文
+
 ## D
 
 **丁仲礼** <mark style="background-color:green;">\[9分]</mark> #科学技术
