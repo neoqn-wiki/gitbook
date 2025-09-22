@@ -7,6 +7,8 @@ coverY: -44.01215805471125
 
 ## A
 
+**艾跃进** <mark style="background-color:green;">\[9分]</mark> #地缘政治 #个人成长
+
 **Andrew Tate** <mark style="background-color:red;">\[5分]</mark> #个人成长 #两性教育
 
 ## B
