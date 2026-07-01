@@ -1,6 +1,27 @@
 ---
 cover: ../.gitbook/assets/Antennae_Biggs_3840.jpeg
 coverY: -44.01215805471125
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # ✅ 认可的 KOL
@@ -74,6 +95,8 @@ coverY: -44.01215805471125
 **Kevin Walmsley** <mark style="background-color:yellow;">\[7分]</mark> #经济人文
 
 ## L
+
+**黎远** (恶少说说) <mark style="background-color:green;">\[8分]</mark> #经济人文 #地缘政治
 
 **李世默** (Eric Li) <mark style="background-color:yellow;">\[7分]</mark> #经济人文 #地缘政治
 
